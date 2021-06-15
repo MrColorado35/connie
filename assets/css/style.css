@@ -9,6 +9,10 @@ body{
     font-weight: 600;
 }
 
+.bg-pinky{
+    background-color: #e2b4bd;
+}
+
 
 /* ------------------------------- main section */
 
@@ -18,4 +22,6 @@ body{
 
 .text-width {
     width: 70%;
+    background-color: antiquewhite;
+    border: 1px solid black;
 }
