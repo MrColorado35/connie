@@ -6,7 +6,16 @@ body{
 
 .logo-text {
     font-family: 'Viaoda Libre', cursive;
+    font-weight: 600;
 }
 
 
 /* ------------------------------- main section */
+
+.pic-width{
+    width: 80%;
+}
+
+.text-width {
+    width: 70%;
+}
