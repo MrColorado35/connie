@@ -1,6 +1,7 @@
 /* ----------------------------- General style */
 body{
     background-color: #fedc97;
+    /* background: url(); */
     font-family: 'Lato', sans-serif;
 }
 
@@ -15,6 +16,9 @@ body{
 
 
 /* ------------------------------- main section */
+#main {
+    background: url('pictures/papirusWithPaint.jpg') no-repeat center center fixed;
+}
 
 .pic-width{
     width: 80%;
