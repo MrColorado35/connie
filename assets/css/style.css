@@ -13,6 +13,23 @@ body{
 .bg-pinky{
     background-color: #e2b4bd;
 }
+/* ------------------------------- first section- picture */
+#top-one{
+    width: 100%;
+    height: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.picture-large {
+    /* background: url(pictures/bogini.jpg) no-repeat center center; */
+    width: 100%;
+    height: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: -10;
+    display: block;
+ } 
 
 
 /* ------------------------------- main section */
