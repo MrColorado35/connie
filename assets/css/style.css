@@ -42,6 +42,7 @@ body{
     width: 80%;
     border: 2px solid black;
     border-radius: 5px;
+    margin: 2% 4%;
 }
 
 .pic-width{
@@ -54,3 +55,9 @@ body{
     border: 1px solid black;
 }
 
+/* -------------------------------- footer */
+footer{
+    min-height: 150px;
+    width: 100%;
+    background-color: #247ba0;
+}
